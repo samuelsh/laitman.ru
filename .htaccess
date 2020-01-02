@@ -1,0 +1,41 @@
+###Beging .HTACCESS
+
+###My Settings###
+# Protect the htaccess file
+#<Files .htaccess>
+#Order Allow,Deny
+#Deny from all
+#</Files>
+
+# Protect wpconfig.php
+<Files wp-config.php>
+Order Allow,Deny
+Deny from all
+</Files>
+
+# Disable directory browsing
+#Options All -Indexes
+
+#Fix for "open() "../wp-includes/js/thickbox/loadingAnimation.gif" failed (2: No such file or directory)" 
+Redirect 301 /wp-includes/js/thickbox/loadingAnimation.gif https://www.laitman.ru/wp-includes/js/thickbox/loadingAnimation.gif
+
+#Fix for loadingAnimation.gif  not found
+#Redirect 301 /page/wp-includes/js/thickbox/loadingAnimation.gif http://www.laitman.ru/wp-includes/js/thickbox/loadingAnimation.gif
+#Redirect 301 /page/wp-includes/js/thickbox/loadingAnimation.gif http://www.laitman.ru/wp-includes/js/thickbox/loadingAnimation.gif
+#Redirect 301 /page/wp-includes/js/thickbox/tb-close.png http://www.laitman.ru/wp-includes/js/thickbox/tb-close.png
+
+# This file is not for HTTP server, but to please WordPress' plug-ins
+#Start Wordpress 
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+# Rewrite HTTP rule
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+
+</IfModule>
+#End Wordpress

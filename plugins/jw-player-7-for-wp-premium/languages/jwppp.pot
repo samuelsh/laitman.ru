@@ -1,0 +1,637 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JW Player for Wordpress - Premium 1.5.0\n"
+"POT-Creation-Date: 2017-11-04 18:47+0100\n"
+"PO-Revision-Date: 2015-12-31 00:25+0100\n"
+"Last-Translator: ilGhera <info@ilghera.com>\n"
+"Language-Team: ilGhera <info@ilghera.com>\n"
+"Language: ita\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/jwppp-admin.php:78
+msgid "It looks like you do not have sufficient permissions to view this page."
+msgstr ""
+
+#: includes/jwppp-admin.php:87 includes/jwppp-functions.php:23
+msgid "JW Player for Wordpress - Premium"
+msgstr ""
+
+#: includes/jwppp-admin.php:93
+msgid "Settings"
+msgstr ""
+
+#: includes/jwppp-admin.php:94
+msgid "Related videos"
+msgstr ""
+
+#: includes/jwppp-admin.php:95
+msgid "Subtitles"
+msgstr ""
+
+#: includes/jwppp-admin.php:96
+msgid "Sharing"
+msgstr ""
+
+#: includes/jwppp-admin.php:97
+msgid "Ads"
+msgstr ""
+
+#: includes/jwppp-admin.php:116
+msgid "Premium Key"
+msgstr ""
+
+#: includes/jwppp-admin.php:118
+msgid "Add your Premium Key"
+msgstr ""
+
+#: includes/jwppp-admin.php:119
+msgid ""
+"Please, paste here the <strong>Premium Key</strong> that you received buying "
+"this plugin.<br>You'll be able to keep upgraded with the new versions of JW "
+"Player for Wordpress - Premium."
+msgstr ""
+
+#: includes/jwppp-admin.php:136
+msgid "Player library URL"
+msgstr ""
+
+#: includes/jwppp-admin.php:151
+msgid "JWP Licence Key"
+msgstr ""
+
+#: includes/jwppp-admin.php:155
+msgid "Self hosted player? Please, add your JW Player license key."
+msgstr ""
+
+#: includes/jwppp-admin.php:164
+msgid "Post types"
+msgstr ""
+
+#: includes/jwppp-admin.php:180
+msgid "Select the type of content to display videos."
+msgstr ""
+
+#: includes/jwppp-admin.php:191
+msgid "Video Player position"
+msgstr ""
+
+#: includes/jwppp-admin.php:196
+msgid "Before the content"
+msgstr ""
+
+#: includes/jwppp-admin.php:199
+msgid "After the content"
+msgstr ""
+
+#: includes/jwppp-admin.php:202
+msgid "Custom"
+msgstr ""
+
+#: includes/jwppp-admin.php:204
+msgid "Select the location where you want the video player is displayed."
+msgstr ""
+
+#: includes/jwppp-admin.php:205
+msgid "For custom position use the shortcode <b>[jwp-video]</b>."
+msgstr ""
+
+#: includes/jwppp-admin.php:217
+msgid "Video text"
+msgstr ""
+
+#: includes/jwppp-admin.php:219 includes/jwppp-functions.php:698
+msgid "Loading the player..."
+msgstr ""
+
+#: includes/jwppp-admin.php:220
+msgid "Add custom text that appears while the player is loading."
+msgstr ""
+
+#: includes/jwppp-admin.php:232
+msgid "Default poster image"
+msgstr ""
+
+#: includes/jwppp-admin.php:235
+msgid "Add the url of a default poster image."
+msgstr ""
+
+#: includes/jwppp-admin.php:247
+msgid "Post thumbnail"
+msgstr ""
+
+#: includes/jwppp-admin.php:251
+msgid "Use the post thumbnail"
+msgstr ""
+
+#: includes/jwppp-admin.php:252
+msgid "When present, use the post thumbnail as poster image."
+msgstr ""
+
+#: includes/jwppp-admin.php:298
+msgid "Fixed"
+msgstr ""
+
+#: includes/jwppp-admin.php:301
+msgid "Responsive"
+msgstr ""
+
+#: includes/jwppp-admin.php:303
+msgid "Select how define the measures of the player."
+msgstr ""
+
+#: includes/jwppp-admin.php:309
+msgid "Fixed measures"
+msgstr ""
+
+#: includes/jwppp-admin.php:324
+msgid "Player width"
+msgstr ""
+
+#: includes/jwppp-admin.php:329
+msgid "Add the player's width (eg. 80%)"
+msgstr ""
+
+#: includes/jwppp-admin.php:335
+msgid "Aspect ratio"
+msgstr ""
+
+#: includes/jwppp-admin.php:348
+msgid "Select the aspect ratio of the player"
+msgstr ""
+
+#: includes/jwppp-admin.php:360
+msgid "Skin"
+msgstr ""
+
+#: includes/jwppp-admin.php:441
+msgid "Logo"
+msgstr ""
+
+#: includes/jwppp-admin.php:444
+msgid "Image url"
+msgstr ""
+
+#: includes/jwppp-admin.php:445
+msgid "Add your logo to the player."
+msgstr ""
+
+#: includes/jwppp-admin.php:450
+msgid "Logo Position"
+msgstr ""
+
+#: includes/jwppp-admin.php:468
+msgid "Choose the logo position."
+msgstr ""
+
+#: includes/jwppp-admin.php:473
+msgid "Logo Link"
+msgstr ""
+
+#: includes/jwppp-admin.php:476
+msgid "Link url"
+msgstr ""
+
+#: includes/jwppp-admin.php:477
+msgid "Add a link to the logo."
+msgstr ""
+
+#: includes/jwppp-admin.php:482 includes/jwppp-admin.php:485
+msgid "Next Up"
+msgstr ""
+
+#: includes/jwppp-admin.php:486
+msgid "Add a different text for the \"Next Up\" prompt"
+msgstr ""
+
+#: includes/jwppp-admin.php:491
+msgid "Playlist tooltip"
+msgstr ""
+
+#: includes/jwppp-admin.php:494
+msgid "Playlist"
+msgstr ""
+
+#: includes/jwppp-admin.php:495
+msgid "Add a different text for the tooltip in Playlist mode"
+msgstr ""
+
+#: includes/jwppp-admin.php:502
+msgid "Save changes "
+msgstr ""
+
+#: includes/jwppp-admin.php:559
+msgid "Active Related Videos option"
+msgstr ""
+
+#: includes/jwppp-admin.php:564
+msgid "Show Related Videos overlay as default option."
+msgstr ""
+
+#: includes/jwppp-admin.php:570
+msgid "Next Up tooltip"
+msgstr ""
+
+#: includes/jwppp-admin.php:573 includes/jwppp-functions.php:1010
+msgid "Related Videos"
+msgstr ""
+
+#: includes/jwppp-admin.php:574
+msgid ""
+"Title of the Next Up tooltip in Related mode, default is <strong>Related</"
+"strong>."
+msgstr ""
+
+#: includes/jwppp-admin.php:580
+msgid "Related image"
+msgstr ""
+
+#: includes/jwppp-admin.php:586
+msgid "Featured image"
+msgstr ""
+
+#: includes/jwppp-admin.php:590
+msgid "Custom field"
+msgstr ""
+
+#: includes/jwppp-admin.php:593
+msgid "Select how get images for related contents."
+msgstr ""
+
+#: includes/jwppp-admin.php:598 includes/jwppp-admin.php:601
+msgid "Custom field name"
+msgstr ""
+
+#: includes/jwppp-admin.php:602
+msgid "Add the name of the custom field you want to use."
+msgstr ""
+
+#: includes/jwppp-admin.php:625 includes/jwppp-functions.php:505
+#: includes/jwppp-functions.php:515
+msgid "Video categories"
+msgstr ""
+
+#: includes/jwppp-admin.php:631
+msgid ""
+"Use a taxonomy to get more specific related videos. It will be add to all "
+"post types you choosed."
+msgstr ""
+
+#: includes/jwppp-admin.php:632
+msgid ""
+"You can even use <strong>Video categories</strong> provided by this plugin."
+msgstr ""
+
+#: includes/jwppp-admin.php:637 includes/jwppp-admin.php:748
+msgid "Save chages"
+msgstr ""
+
+#: includes/jwppp-admin.php:699
+msgid "Text color"
+msgstr ""
+
+#: includes/jwppp-admin.php:702
+msgid "Choose the text-color for your subtitles."
+msgstr ""
+
+#: includes/jwppp-admin.php:707
+msgid "Font size"
+msgstr ""
+
+#: includes/jwppp-admin.php:710
+msgid "Choose the font-size for your subtitles."
+msgstr ""
+
+#: includes/jwppp-admin.php:715
+msgid "Font family"
+msgstr ""
+
+#: includes/jwppp-admin.php:718
+msgid "Choose the font-family for your subtitles."
+msgstr ""
+
+#: includes/jwppp-admin.php:723
+msgid "Font opacity"
+msgstr ""
+
+#: includes/jwppp-admin.php:726
+msgid "Add opacity to your subtitles."
+msgstr ""
+
+#: includes/jwppp-admin.php:731
+msgid "Background color"
+msgstr ""
+
+#: includes/jwppp-admin.php:734
+msgid "Choose the background-color for your subtitles."
+msgstr ""
+
+#: includes/jwppp-admin.php:739
+msgid "Background opacity"
+msgstr ""
+
+#: includes/jwppp-admin.php:742
+msgid "Add opacity to your subtitles background."
+msgstr ""
+
+#: includes/jwppp-admin.php:783
+msgid "Active Share option"
+msgstr ""
+
+#: includes/jwppp-admin.php:788
+msgid ""
+"Active <strong>share video</strong> as default option. You'll be able to "
+"change it on single video."
+msgstr ""
+
+#: includes/jwppp-admin.php:794
+msgid "Heading"
+msgstr ""
+
+#: includes/jwppp-admin.php:796 includes/jwppp-functions.php:839
+#: includes/jwppp-functions.php:913
+msgid "Share Video"
+msgstr ""
+
+#: includes/jwppp-admin.php:797
+msgid "Add a custom heading, default is <strong>Share Video</strong>"
+msgstr ""
+
+#: includes/jwppp-admin.php:803
+msgid "Active embed option"
+msgstr ""
+
+#: includes/jwppp-admin.php:808
+msgid ""
+"Active <strong>embed video</strong> as default option. You'll be able to "
+"change it on single video."
+msgstr ""
+
+#: includes/jwppp-admin.php:815 includes/jwppp-admin.php:907
+msgid "Save options"
+msgstr ""
+
+#: includes/jwppp-admin.php:860
+msgid "Active Video Ads"
+msgstr ""
+
+#: includes/jwppp-admin.php:865
+msgid "Add a <strong>Basic Preroll Video Ads</strong>"
+msgstr ""
+
+#: includes/jwppp-admin.php:866
+msgid ""
+"A valid license for the Advertising edition of JW Player is required. The "
+"Free, Premium, and Enterprise editions do not support this function."
+msgstr ""
+
+#: includes/jwppp-admin.php:872
+msgid "Ads Client"
+msgstr ""
+
+#: includes/jwppp-admin.php:882
+msgid ""
+"Select your ADS Client. More info <a href=\"http://support.jwplayer.com/"
+"customer/portal/articles/1431638-ad-formats-reference\" target=\"_blank"
+"\">here</a>"
+msgstr ""
+
+#: includes/jwppp-admin.php:888
+msgid "Ads Tag"
+msgstr ""
+
+#: includes/jwppp-admin.php:890
+msgid "Add the url of your XML file."
+msgstr ""
+
+#: includes/jwppp-admin.php:891
+msgid ""
+"Please, set this to the URL of the ad tag that contains the pre-roll ad."
+msgstr ""
+
+#: includes/jwppp-admin.php:897
+msgid "Ad Skipping"
+msgstr ""
+
+#: includes/jwppp-admin.php:900
+msgid ""
+"Please, set an amount of time (seconds) that you want your viewers to watch "
+"an ad before being allowed to skip it"
+msgstr ""
+
+#: includes/jwppp-admin.php:929
+msgid ""
+"If you like <strong>JW Player for Wordpress - Premium</strong>, please give "
+"it a <a href=\"http://www.ilghera.com/product/jw-player-7-for-wordpress-"
+"premium\" target=\"_blank\">★★★★★</a> rating. Thanks in advance! "
+msgstr ""
+
+#: includes/jwppp-functions.php:71
+msgid ""
+"You need to set the VIDEO PLAYER POSITION option to CUSTOM in order to use "
+"this shortcode."
+msgstr ""
+
+#: includes/jwppp-functions.php:506
+msgid "Video category"
+msgstr ""
+
+#: includes/jwppp-functions.php:507
+msgid "Search video categories"
+msgstr ""
+
+#: includes/jwppp-functions.php:508
+msgid "All video categories"
+msgstr ""
+
+#: includes/jwppp-functions.php:509
+msgid "Parent video category"
+msgstr ""
+
+#: includes/jwppp-functions.php:510
+msgid "Parent video category:"
+msgstr ""
+
+#: includes/jwppp-functions.php:511
+msgid "Edit video category"
+msgstr ""
+
+#: includes/jwppp-functions.php:512
+msgid "Update video category"
+msgstr ""
+
+#: includes/jwppp-functions.php:513
+msgid "Add New video category"
+msgstr ""
+
+#: includes/jwppp-functions.php:514
+msgid "New video category Name"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:38
+msgid "Media URL"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:42
+msgid "Video (YouTube or self-hosted), Audio or Playlist"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:46
+#: includes/jwppp-single-video-box.php:297
+#: includes/jwppp-single-video-box.php:399
+msgid "Label (HD, 720p, 360p)"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:49
+msgid "More options"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:181
+#: includes/jwppp-single-video-box.php:511
+msgid "Add"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:217
+#: includes/jwppp-single-video-box.php:511
+msgid "Add Chapters, Subtitles or Preview Thumbnails"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:232
+#: includes/jwppp-single-video-box.php:559
+msgid "Thumbnail url"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:234
+#: includes/jwppp-single-video-box.php:557
+msgid "Subtitle"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:236
+#: includes/jwppp-single-video-box.php:561
+msgid "Chapter title"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:296
+#: includes/jwppp-single-video-box.php:398
+msgid "Source url"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:340
+#: includes/jwppp-single-video-box.php:591
+msgid "Subtitles file url (VTT, SRT, DFXP)"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:342
+#: includes/jwppp-single-video-box.php:592
+msgid "Label (EN, IT, FR )"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:378
+msgid "More sources"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:379
+msgid "Used for quality toggling and alternate sources."
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:406
+msgid "Video poster image"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:408
+msgid "Add a different poster image for this video"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:411
+msgid "Video title"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:413
+msgid "Add a title to your video"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:416
+msgid "Video description"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:418
+msgid "Add a description to your video"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:425
+msgid "Force a media type"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:426
+msgid "Only required when a file extension is missing or not recognized"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:448
+msgid "Autostarting on page load."
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:458
+msgid "Mute the video during playback."
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:468
+msgid "Repeat the video during playback."
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:487
+msgid "Allow to embed this video"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:499
+msgid "Allow to download this video"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:500
+msgid "Only with self-hosted videos and not with playlists."
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:565
+msgid "Start"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:566
+msgid "End"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:567
+msgid "in seconds"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:575
+#: includes/jwppp-single-video-box.php:599
+msgid "Default"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:576
+msgid "These subtitles will be activated by default"
+msgstr ""
+
+#: includes/jwppp-single-video-box.php:600
+msgid "These first subtitles will be activated by default"
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p2/Plugin/UpdateChecker.php:391
+msgid "Check for updates"
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p2/Plugin/UpdateChecker.php:442
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p2/Vcs/PluginUpdateChecker.php:85
+msgid "There is no changelog available."
+msgstr ""

@@ -1,0 +1,10 @@
+AWSOM News Known Issues Help File
+
+During News Post Deletion and Editing, after the process is completed and a confirmation screen is displayed,
+the admin page will have a forced refresh after about 5 seconds to clear some data. This is normal and not
+a glitch. Navigating away to a different screen before the refresh occurs is ok and will also clear the data.
+
+News Posts that appear in multi-spots on the same page will be counted as viewed based on the number of spots it appears in, not per page.
+
+
+If none of these settings or techniques resolves your issue please go to http://www.awsom.org

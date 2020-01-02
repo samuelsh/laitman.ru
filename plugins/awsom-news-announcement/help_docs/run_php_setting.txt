@@ -1,0 +1,9 @@
+AWSOM News Run Php setting Help File
+
+The "Run PHP in News Announcement" setting allows the admin to use active PHP code in the block by entering it in the format: <?php .... ?> 
+with the active code in the middle. Now you can use many Wordpress plugins that require a template tag to display (such as video
+players, audio players, etc.) in your News Announcement block. Do not leave this setting active if you do not plan on using php code though.
+Note: You must use the Code editor to input PHP code, the Visual editor will not allow PHP code to be correctly entered.
+
+
+If none of these settings or techniques resolves your issue please go to http://www.awsom.org or http://www.harknell.com for more support.

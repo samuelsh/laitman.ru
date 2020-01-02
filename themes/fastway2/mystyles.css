@@ -1,0 +1,16 @@
+object {
+display:none;
+}
+
+.home .entry iframe, .archive .entry iframe {
+	display:none;
+}
+
+.slideshow
+{
+display:block;
+}
+
+.img_custom_border{
+	border: 2px solid #999;
+}

@@ -1,0 +1,11 @@
+.media-item .pinkynail {
+	height:70px;
+	min-height:70px;
+	min-width:70px;
+}
+.media-item .pinkynail {
+	height:70px;
+}
+#media-upload .media-item {
+	min-height:75px;
+}

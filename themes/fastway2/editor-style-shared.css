@@ -1,0 +1,37 @@
+.a-title {
+	display:block;
+	padding: 0;
+	margin: 0 0 0.5ex 0;
+	line-height:10px;
+	font-size:10px;
+	font-weight:bold;
+	color: #000080;
+}
+.a-link {
+	padding: 0;
+	margin: 0 0 -1.0ex;
+	line-height:10px;
+	font-size:10px;
+}
+.a-link-first{
+	padding: 0;
+	margin: 0;
+	line-height: 10px;
+	font-size:10px;
+}
+.a-link-last{
+	display: block;
+	padding: 0;
+	margin: 0 0 2.4ex 0;
+	line-height: 10px;
+	font-size:10px;
+}
+#tinymce p, .wp-editor-container textarea.wp-editor-area { 
+	font-size: 16px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#tinymce{
+	font-size: 16px;
+}
+

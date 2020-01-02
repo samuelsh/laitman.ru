@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress 2.5.1 Russian Lecactus Edition\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-04-26 01:00+0600\n"
+"PO-Revision-Date: 2009-10-08 05:26+0200\n"
+"Last-Translator: Grisha <gshilin@gmail.com>\n"
+"Language-Team: Lecactus <lecactus@lecactus.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11) ? 0 : ((n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20)) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c;__ngettext_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: X:\\web\\wordpress\\main\\wordpress-2.5.1\\wordpress\n"
+
+msgid "Comment from %s:"
+msgstr "Комментарий от %s:"
+
+msgid "Link"
+msgstr "Ссылка"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "The blog is moderated."
+msgstr "Настоящий блог модерируется. Предлагается писать только в рамках темы блога \"Каббала, наука и смысл жизни\". Комментировать и задавать вопросы могут только зарегистрированные пользователи."
+
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Если Вы зарегистрированный пользователь, то <a href=\"%s\">войдите</a> в систему."
+
+msgid "Otherwise please <a href=\"%s\">register</a>."
+msgstr "Если нет - <a href=\"%s\">зарегистрируйтесь</a>."
+

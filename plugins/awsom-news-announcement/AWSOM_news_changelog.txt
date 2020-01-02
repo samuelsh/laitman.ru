@@ -1,0 +1,51 @@
+AWSOM News Announcement Changelog
+written by Harknell
+1.5.5	05/1/12		Updated Plugin to fix a bug when used on an SSL site to correctly use https links in the admin area for editing/deleting/clearing views
+1.5.4	12/22/11	Updated plugin to correctly support SSL sites.
+1.5.3	12/16/11	Edited some text in the Admin Settings area to remove references to a no longer used forum site.
+1.5.2	07/23/09	Fixed an issue where the Visual editor was not being linked properly for edited News Posts.
+1.5.1   01/20/09	Fixed a path mistake that didn't allow new installs to create the database tables (DOH!!!).
+1.5.0	01/13/09	Added View Count Function and ability to zero it out in admin area.
+			Added in Multiple location support to allow for posts to be displayed only in certain areas if wanted.
+			Added in optional date based display of news posts.
+			Updated Plugin Folder to be compatible with WordPress Auto-update/installer (Blah!)
+			Fixed Issue where display of Default Location help doc link wasn't appearing.
+1.4.7	12/15/08	Updated the plugin to be backwardly compatible with previous WordPress versions (D'oh!).
+1.4.6	12/12/08	Updated Plugin to be compatible with WordPress 2.7, required move to Manage News Location to the Posts area in Admin menu.
+1.4.5	07/15/08	Updated Plugin to use new WordPress 2.6 plugin paths. (thank you to http://planetozh.com for the info and code)
+1.4.4	07/03/08	Removed unnecessary tinyMCE elements to reduce overall plugin size.
+1.4.3	05/28/08	Added in dedicated tinyMCE version to correct a problem using the default 3.x version in WordPress
+1.4.2	03/18/08	Updated plugin to be compatible with Wordpress 2.5 (fixed table install issue)
+1.4.1	01/08/08	Added in Footer Credit conflict resolution code for other AWSOM plugins
+			Added in more robust multi-loop theme compensation code when using default location placement.
+			Fixed bug in upgrade script that bombed the conversion if a ' was in text of news post.
+1.4.0	01/06/08	Made News Entry box larger when using Code editor.
+			Added in Multi-News capability, major admin manage area update.
+			Added in AWSOM footer credit message as optional admin set item.
+			Added in custom CSS ability through admin interface.
+			Added in ability to set User level for News Post admin access (admin, editor, or author roles)
+			Added in ability to display news posts to different visitor levels.
+			Added in help files linked from manage area.
+			Added in "non-registered only" view for News Posts.
+1.3.4	12/26/07	Fixed a typo in the admin area that added an " when using the visual editor.
+1.3.3	11/24/07	Added in "edit News post" link on webpage visible to admins or "manage options" level users
+			to go directly to the manage news page.
+1.3.2	11/03/07	Fixed plugin to be XHTML compliant
+1.3.1	10/01/07	Added in ability to place News block within a post or page using %%awsomnews%% code.
+			Cleaned up admin page text and option placement to make a bit more sense and have better flow.
+1.3.0	08/17/07	Corrected a text mistake that indicated wrong CSS entry to add to stylesheet to theme Announcement box.
+			Added Ability to run php code in announcement with ability to turn this on or off.
+			Added HTML commenting to make announcement area more easily visible in page rendering.
+1.2.4	07/19/07	Fixed a type in the style statements to hide sidebar content.
+1.2.3	07/01/07	Fixed an issue where the News Archive could appear in the sidebar when set to only appear in the Content area.
+1.2.2	06/27/07	Fixed a bug in regard to table creation in Wordpress 2.2.1
+1.2.1	06/21/07	Fixed a minor bug that could cause the news to be injected into the RSS feed incorectly.
+			Added Visual editor option to the news editor area.
+			Added basic Wordpress security functions.
+			Added "is news active" switch.
+			Added better custom news location call hook text for templates in admin menu.
+1.1.1	05/31/07	Minor update to compensate for a bug in Wordpress 2.2
+1.1.0	05/03/07	Added new field to awsonnews table to hold switch value for use of custom/default placement of news announcement.
+			Added action hook to display default news announcement at beginning of Wordpress loop if default switich is enabled.
+			Added database version number to main Wordpress Options table to support future upgrades.
+1.0.2	04/24/07	Intitial Public release of Plugin.

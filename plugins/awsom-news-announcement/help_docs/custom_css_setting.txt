@@ -1,0 +1,21 @@
+AWSOM News Custom CSS setting Help File
+
+
+The Custom CSS Setting field allows you to input any CSS entries you'd like to alter the look of your News
+Announcement posts. The posts are wrapped by a HTML div tag so any CSS that is compatible with the HTML div tag
+should work properly (please note that different web browsers may display CSS differently). To input the 
+CSS entries simply add the entries directly into the input box as you would inside a CSS file, but do not add in
+a { or } before or after them--Just add the actual entries making sure each entry ends with a ;
+
+Here are some examples of what would be directly entered in the input box.
+
+example one single entry:
+font-size: 12pt;
+
+example two multiple entry:
+color: #00FF00; font-family:arial; 
+
+You can input as many entries as you'd like in a row. The CSS will affect each News Post individually, so you can create boxes
+around your posts or any thing else to seperate multiple News Posts for display on your page.
+
+If none of these settings or techniques resolves your issue please go to http://www.awsom.org or http://www.harknell.com for more support.

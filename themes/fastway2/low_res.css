@@ -1,0 +1,9 @@
+/*--- Low resolution for the Fastway2 theme for Wordpress ---*/
+/*-------------------------------------------------*/
+/*--- by BB develop ---*/
+#header-inner h1{
+	font-size:25px;
+}
+img#header-photo {
+	right:20px;
+}

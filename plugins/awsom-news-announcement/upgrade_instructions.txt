@@ -1,0 +1,29 @@
+Upgrade instructions for users of AWSOM News 1.02 
+
+To upgrade the AWSOM News Announcement plugin from 1.0.2 to the 1.5.X version do the following steps in order:
+
+1) Go to your Admin Plugins area and deactivate the previous AWSOM News Announcement plugin.
+2) Delete the plugin folder from the wp-content/plugin directory.
+3) unzip the new  AWSOM News Announcement zip file and move the contents to your wp-content/plugins folder
+4) Go to your Admin Plugins area and activate the new AWSOM News Announcement plugin.
+5) You have 2 options at this point: If you previously used the Theme file tag to display your News Announcement and don't want to change
+things then turn the option "Place the News Announcement On Index Page above Posts" to off. 
+6) OR If you want to remove the now unnecessary Theme edits that version 1.0.2 required go into your theme index.php file
+(or wherever you may have added the code) and delete:
+
+<div id="announcement">
+<?php if (function_exists('display_my_news_announcement')) { display_my_news_announcement(); } ?>
+</div>
+
+from your theme file. Make sure that you then turn the option "Place the News Announcement On Index Page above Posts" to Yes.
+
+To upgrade from 1.1.0 - 1.4.7 to 1.5.X
+
+1) deactivate your current Awsom News plugin from the admin Plugin menu.
+2) Delete the current Awsom News folder from the wp-content/plugins folder.
+3) Move the new folder to the wp-content/plugins folder.
+4) Activate the plugin from the Admin Plugins menu.
+5) Make sure the settings in the Posts--> Awsom News menu are set correctly for your set up and update them to save them.
+
+
+

@@ -1,0 +1,35 @@
+User-agent: *
+Allow: /
+Disallow: /.svn
+Disallow: /*?utm_source
+Disallow: /date
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content
+Allow: /wp-includes/js/
+Allow: /wp-content/plugins/
+Allow: /wp-content/themes/
+Allow: /wp-content/cache/
+Disallow: /xmlrpc.php
+Disallow: /questions-answers/119005.html
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+#Googlebot
+User-agent: Googlebot
+Allow: *.css*
+Allow: *.js*
+
+Sitemap: http://www.laitman.ru/sitemap.xml.gz
+
+###laitman.ru###

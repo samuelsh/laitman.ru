@@ -1,0 +1,607 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Carrington Mobile\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-03 17:54+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Samuel <samuel.sh79@gmail.com>\n"
+"Language-Team: Som <samuel.sh79@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;__withdesc;_ewithdesc\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: /home/dogen/Downloads/wp-mobile\n"
+
+#: functions.php:43
+msgid "Posts by:"
+msgstr "Публикации по:"
+
+#: functions.php:45
+msgid "Category Archives:"
+msgstr "Архив Категорий:"
+
+#: functions.php:47
+msgid "Tag Archives:"
+msgstr "Архив Тэгов:"
+
+#: functions.php:49
+msgid "Archives:"
+msgstr "Архивы:"
+
+#: forms/comment.php:30
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Вы должны <a href=\"%s\">войти в систему</a> что бы оставить комментарий."
+
+#: forms/comment.php:38
+msgid "Leave a Reply"
+msgstr "Оставь комментарий"
+
+#: forms/comment.php:42
+#, php-format
+msgid "Logged in as <a href=\"%s\">%s</a>. "
+msgstr "Здравствуйте <a href=\"%s\">%s</a>. "
+
+#: forms/comment.php:48
+msgid "Name"
+msgstr "Имя"
+
+#: forms/comment.php:48
+msgid " (required)"
+msgstr " (обязательно)"
+
+#: forms/comment.php:52
+msgid "Email"
+msgstr "Электронная почта"
+
+#: forms/comment.php:54
+msgid " (required, but never shared)"
+msgstr " (обязательное, не выставляться на сайте)"
+
+#: forms/comment.php:57
+msgid " (never shared)"
+msgstr " (не выставляться на сайте)"
+
+#: forms/comment.php:62
+msgid "Your website address"
+msgstr "Ваш адрес сайта"
+
+#: forms/comment.php:62
+msgid "Web"
+msgstr "Веб сайт"
+
+#: forms/comment.php:69
+msgid "Submit comment"
+msgstr "Послать комментарий"
+
+#: forms/search.php:29
+msgid "Search"
+msgstr "Поиск"
+
+#: header/header-default.php:40
+msgid "Pages"
+msgstr "Страницы"
+
+#: header/header-default.php:41
+msgid "Recent Posts"
+msgstr "Последние Публикации"
+
+#: comments/comments-default.php:27
+msgid "One Response"
+msgstr "Один ответ"
+
+#: comments/comments-default.php:27
+#, php-format
+msgid "%d Responses"
+msgstr "%d Ответов"
+
+#: carrington-core/carrington.php:65
+#, php-format
+msgid "<a class=\"more\" href=\"%s\">more &rarr;</a>"
+msgstr "<a class=\"more\" href=\"%s\">продолжить &rarr;</a>"
+
+#: carrington-core/compatibility.php:213
+msgid "Cancel"
+msgstr "Отменить"
+
+#: carrington-core/ajax-load.php:46
+msgid "Close"
+msgstr "Закрыть"
+
+#: carrington-core/admin.php:28
+#: carrington-core/admin.php:70
+msgid "Carrington Settings"
+msgstr "Установки"
+
+#: carrington-core/admin.php:29
+msgid "Carrington"
+msgstr "Каррингтон"
+
+#: carrington-core/admin.php:64
+msgid "Settings updated."
+msgstr "Обновление Установок"
+
+#: carrington-core/admin.php:89
+msgid "Save Changes"
+msgstr "Сохранить Изменения"
+
+#: carrington-core/admin.php:121
+#, php-format
+msgid "Home Column %s"
+msgstr ""
+
+#: carrington-core/admin.php:125
+msgid "Category:"
+msgstr "Категория"
+
+#: carrington-core/admin.php:129
+msgid "Show:"
+msgstr "Показать"
+
+#: carrington-core/admin.php:131
+msgid "Latest Post Preview"
+msgstr "Последние Публикации"
+
+#: carrington-core/admin.php:132
+msgid "List of Recent Post Titles"
+msgstr "Заголовки Последних Публикаций"
+
+#: carrington-core/admin.php:136
+msgid "Length of preview, in characters (250 recommended):"
+msgstr ""
+
+#: carrington-core/admin.php:140
+msgid "Number of titles to show in list (5 recommended):"
+msgstr ""
+
+#: carrington-core/admin.php:152
+msgid "Yes"
+msgstr "Да"
+
+#: carrington-core/admin.php:153
+msgid "No"
+msgstr "Нет"
+
+#: carrington-core/admin.php:167
+msgid "Misc."
+msgstr "Разное"
+
+#: carrington-core/admin.php:171
+msgid "About text (shown in sidebar):"
+msgstr ""
+
+#: carrington-core/admin.php:176
+msgid "Footer code (for analytics, etc.):"
+msgstr ""
+
+#: carrington-core/admin.php:181
+msgid "Give <a href=\"http://crowdfavorite.com\">Crowd Favorite</a> credit in footer:"
+msgstr ""
+
+#: carrington-core/admin.php:208
+msgid "No Image"
+msgstr "Нет Изображения"
+
+#: carrington-core/admin.php:234
+#, php-format
+msgid "Header Image &mdash; <a href=\"%s\">Upload Images</a>"
+msgstr "Заглавное Изображение &mdash; <a href=\"%s\">Загрузить Изображения</a>"
+
+#: content/page.php:28
+#: content/content-default.php:28
+msgid "Pages: "
+msgstr "Страницы:"
+
+#: content/content-default.php:42
+msgid "Categories: "
+msgstr "Категории"
+
+#: footer/footer-default.php:35
+msgid "Sub Pages"
+msgstr "Под страницы:"
+
+#: footer/footer-default.php:35
+msgid "Top Level Pages"
+msgstr "Страницы Верхнего Уровня"
+
+#: footer/bottom.php:25
+#, php-format
+msgid "About %s"
+msgstr "О %s"
+
+#: footer/bottom.php:55
+#, php-format
+msgid "<a href=\"http://crowdfavorite.com\" title=\"Custom WordPress development, design and backup services.\" rel=\"developer designer\">%s</a>"
+msgstr ""
+
+#: error/404.php:26
+msgid "Sorry, we're not sure what you're looking for here."
+msgstr "Извините, мы не уверены, что вы ищете здесь "
+
+#: posts/search.php:30
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: /home/dogen/Downloads/wp-mobile/wp-mobile.php:177
+msgid "Exit the Mobile Edition"
+msgstr "Выйти из текстовой версии"
+
+#: /home/dogen/Downloads/wp-mobile/wp-mobile.php:177
+msgid "(view the standard browser version)"
+msgstr "(стандартная браузерная версия)"
+
+#: /home/dogen/Downloads/wp-mobile/wp-mobile.php:182
+msgid "Return to the Mobile Edition"
+msgstr "Вернуться в текстовую версию"
+
+#: /home/dogen/Downloads/wp-mobile/wp-mobile.php:237
+#, php-format
+msgid "Browser: %s"
+msgstr ""
+
+#: /home/dogen/Downloads/wp-mobile/wp-mobile.php:353
+#: /home/dogen/Downloads/wp-mobile/wp-mobile.php:407
+msgid "WordPress Mobile Edition"
+msgstr " "
+
+#: /home/dogen/Downloads/wp-mobile/wp-mobile.php:354
+msgid "Mobile"
+msgstr ""
+
+#: /home/dogen/Downloads/wp-mobile/wp-mobile.php:366
+msgid "Settings"
+msgstr "Установки"
+
+#: /home/dogen/Downloads/wp-mobile/wp-mobile.php:410
+msgid "Browsers that have a <a href=\"http://en.wikipedia.org/wiki/User_agent\">User Agent</a> matching a key below will be shown the mobile version of your site instead of the normal theme."
+msgstr ""
+
+#: /home/dogen/Downloads/wp-mobile/wp-mobile.php:418
+#, php-format
+msgid "To see the User Agent for your browser, <a href=\"%s\">click here</a>."
+msgstr ""
+
+#: /home/dogen/Downloads/wp-mobile/wp-mobile.php:420
+#, fuzzy
+msgid "Save Settings"
+msgstr "Сохранить Изменения"
+
+#~ msgid "Posted"
+#~ msgstr "פורסם"
+#~ msgid "Tags"
+#~ msgstr "תגיות"
+#~ msgid "Categories"
+#~ msgstr "קטגוריות"
+#~ msgid "Previous"
+#~ msgstr "עמוד קודם"
+#~ msgid "Next"
+#~ msgstr "עמוד הבא"
+
+#, fuzzy
+#~ msgid "Archive for"
+#~ msgstr "ארכיון"
+#~ msgid "Author Archive"
+#~ msgstr "ארכיון מחברים"
+#~ msgid "Search Results"
+#~ msgstr "תוצאות החיפוש"
+
+#, fuzzy
+#~ msgid "Permanent link to"
+#~ msgstr "קישור ישיר לפוסט %s"
+#~ msgid "Edit"
+#~ msgstr "לערוך"
+#~ msgid "Read the rest of this entry &raquo;"
+#~ msgstr "לקרוא את ההמשך &raquo;"
+#~ msgid "Comments"
+#~ msgstr "תגובות"
+#~ msgid "Comments (1)"
+#~ msgstr "(1) תגובות"
+#~ msgid "Comments (%)"
+#~ msgstr "(%) תגובות"
+
+#, fuzzy
+#~ msgid "Comments off"
+#~ msgstr "תגובות"
+
+#, fuzzy
+#~ msgid "&laquo; Previous entries"
+#~ msgstr "&laquo; פוסטים ישנים יותר"
+
+#, fuzzy
+#~ msgid "Next entries &raquo;"
+#~ msgstr "פוסטים חדשים יותר &raquo;"
+#~ msgid "Not Found"
+#~ msgstr "לא מצאתי את מה שחיפשת"
+
+#, fuzzy
+#~ msgid "Sorry, but no posts matched your criteria."
+#~ msgstr "לא מצאתי פה שום דבר כזה."
+
+#, fuzzy
+#~ msgid "Post #%s"
+#~ msgstr "שייך לקטגוריות %s"
+#~ msgid "Archives"
+#~ msgstr "ארכיון"
+#~ msgid "Meta"
+#~ msgstr "כלים"
+
+#, fuzzy
+#~ msgid "E-mail: %s"
+#~ msgstr "כתובת דואל"
+
+#, fuzzy
+#~ msgid "Error 404 - Not Found"
+#~ msgstr "שגיאה 404 - לא מצאתי את מה שרצית"
+#~ msgid "Archive for the &#8216;%s&#8217; Category"
+#~ msgstr "ארכיון פוסטים מהקטגוריה  \"%s\""
+#~ msgid "Posts Tagged &#8216;%s&#8217;"
+#~ msgstr "ארכיון פוסטים עם התג \"%s\""
+#~ msgid "Archive for %s|Daily archive page"
+#~ msgstr "ארכיון פוסטים מהתאריך \"%s\""
+#~ msgid "F jS, Y"
+#~ msgstr "j בF, Y"
+#~ msgid "Archive for %s|Monthly archive page"
+#~ msgstr "ארכיון פוסטים מהחודש \"%s\""
+#~ msgid "F, Y"
+#~ msgstr "F, Y"
+#~ msgid "Archive for %s|Yearly archive page"
+#~ msgstr "ארכיון פוסטים מהשנה \"%s\""
+#~ msgid "Y"
+#~ msgstr "Y"
+#~ msgid "l, F jS, Y"
+#~ msgstr "l, j בF, Y"
+#~ msgid "No Comments &#187;"
+#~ msgstr "אין תגובות &#187;"
+#~ msgid "1 Comment &#187;"
+#~ msgstr "תגובה אחת &#187;"
+#~ msgid "% Comments &#187;"
+#~ msgstr "% תגובות &#187;"
+#~ msgid "Archives by Month:"
+#~ msgstr "ארכיון פוסטים לפי חודשים"
+#~ msgid "Archives by Subject:"
+#~ msgstr "ארכיון פוסטים לפי קטגוריות"
+#~ msgid "Permanent Link: %s"
+#~ msgstr "קישור קבוע: %s"
+#~ msgid "This entry was posted %1$s on %2$s at %3$s and is filed under %4$s."
+#~ msgstr "הפוסט הזה נכתב %1$s בתאריך %2$s בשעה %3$s תחת הקטגוריות %4$s."
+#~ msgid ""
+#~ "You can follow any responses to this entry through the <a href='%s'>RSS "
+#~ "2.0</a> feed."
+#~ msgstr ""
+#~ "אפשר לעקוב אחר התגובות לפוסט הזה באמצעות <a href='%s'>פיד RSS לתגובות</a>."
+#~ msgid ""
+#~ "You can <a href=\"#respond\">leave a response</a>, or <a href=\"%s\" rel="
+#~ "\"trackback\">trackback</a> from your own site."
+#~ msgstr ""
+#~ "אפשר <a href=\"#respond\" title=\"לגלול למטה לכתיבת תגובה\">לכתוב כאן "
+#~ "תגובה</a>, או לכתוב בבלוג שלך פוסט כתגובה <a href=\"%s\" title=\"כתובת "
+#~ "טראקבאק לכתיבת תגובה מבלוג אחר\" rel=\"trackback\">ולשלוח טראקבאק</a>."
+#~ msgid ""
+#~ "Responses are currently closed, but you can <a href=\"%s\" rel=\"trackback"
+#~ "\">trackback</a> from your own site."
+#~ msgstr ""
+#~ "הפוסט הזה סגור לתגובות כרגע, אבל אפשר לכתוב פוסט כתגובה בבלוג שלך <a href="
+#~ "\"%s\" title=\"כתובת טראקבאק לכתיבת תגובה מבלוג אחר\" rel=\"trackback"
+#~ "\">ולשלוח טראקבאק</a>."
+#~ msgid ""
+#~ "You can skip to the end and leave a response. Pinging is currently not "
+#~ "allowed."
+#~ msgstr ""
+#~ "אפשר <a href=\"#respond\" title=\"לגלול למטה לכתיבת תגובה\">להשאיר תגובה</"
+#~ "a> כאן בתחית העמוד, אבל אי אפשר כרגע לשלוח פינגים או טראקבאקים"
+#~ msgid "Both comments and pings are currently closed."
+#~ msgstr "הפוסט הזה סגור כרגע לתגובות ולטראקבאקים"
+#~ msgid "Edit this entry."
+#~ msgstr "לערוך את הפוסט הזה"
+#~ msgid "Sorry, no attachments matched your criteria."
+#~ msgstr "לא מצאתי כאן שום דבר כזה."
+#~ msgid "%1$s - Comments on %2$s"
+#~ msgstr "%1$s - תגובות על %2$s"
+#~ msgid ""
+#~ "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on "
+#~ "this post."
+#~ msgstr ""
+#~ "פיד <abbr title=\"Really Simple Syndication\">RSS</abbr> של התגובות "
+#~ "לסיפור הזה"
+#~ msgid ""
+#~ "The <abbr title=\"Universal Resource Locator\">URL</abbr> to TrackBack "
+#~ "this entry is: <em>%s</em>"
+#~ msgstr "כתובת לשליחת טראקבאקים לפוסט הזה: <em>%s</em>"
+#~ msgid "Trackback"
+#~ msgstr "טראקבאק"
+#~ msgid "Pingback"
+#~ msgstr "פינגבאק"
+#~ msgid "Comment"
+#~ msgstr "תגובה"
+#~ msgid "by %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+#~ msgstr "מאת %1$s &#8212; %2$s בשעה <a href=\"#comment-%3$s\">%4$s</a>"
+#~ msgid "No comments yet."
+#~ msgstr "עדיין אין תגובות"
+#~ msgid "Leave a comment"
+#~ msgstr "לכתוב תגובה"
+#~ msgid ""
+#~ "Line and paragraph breaks automatic, e-mail address never displayed, "
+#~ "<acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed: "
+#~ "<code>%s</code>"
+#~ msgstr ""
+#~ "חלוקה אוטומטית לשורות ופסקאות, כתובת הדואל לא תוצג לעולם, תגי <acronym "
+#~ "title=\"Hypertext Markup Language\">HTML</acronym> מותרים: <code>%s</code>"
+#~ msgid ""
+#~ "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out "
+#~ "of this account\">Logout &raquo;</a>"
+#~ msgstr ""
+#~ "שלום <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"לצאת ולהכנס "
+#~ "למערכת בשם אחר\">זה לא אני &raquo;</a>"
+#~ msgid "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+#~ msgstr "אתר"
+#~ msgid "Your Comment"
+#~ msgstr "התגובה שלך"
+#~ msgid "Say It!"
+#~ msgstr "להגיב!"
+#~ msgid "Sorry, the comment form is closed at this time."
+#~ msgstr "הפוסט הזה סגור לתגובות כרגע."
+#~ msgid "Close this window."
+#~ msgstr "לסגור את החלון הזה"
+#~ msgid ""
+#~ "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art "
+#~ "semantic personal publishing platform\"><strong>Wordpress</strong></a>"
+#~ msgstr ""
+#~ "פועל <a id=\"%s\" href=\"http://wph.co.il/\"><strong>וורדפרס "
+#~ "בעברית<strong></a>,  מערכת אישית בקוד פתוח לניהול בלוגים עצמאיים"
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view comments."
+#~ msgstr "הפוסט הזה מוגן בסיסמה. צריך סיסמה כדי לראות את התגובות."
+#~ msgid "No Responses"
+#~ msgstr "אין תגובות"
+#~ msgid "to &#8220;%s&#8221;"
+#~ msgstr "לפוסט \"%s\""
+#~ msgid "<cite>%s</cite> Says:"
+#~ msgstr "מאת <cite>%s</cite>:"
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "התגובה שלך ממתינה לאישור."
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s בשעה %2$s"
+#~ msgid "edit"
+#~ msgstr "לערוך"
+#~ msgid "Comments are closed."
+#~ msgstr "הפוסט הזה סגור לתגובות כרגע."
+#~ msgid "Log out of this account"
+#~ msgstr "לצאת מהמערכת ולהכנס בשם אחר"
+#~ msgid "Logout &raquo;"
+#~ msgstr "זה לא אני &raquo;"
+#~ msgid "Mail (will not be published)"
+#~ msgstr "דואל (לא יוצג בשום מקום)"
+#~ msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+#~ msgstr "<strong>XHTML:</strong> אפשר להשתמש בתגים הללו: <code>%s</code>"
+#~ msgid "%1$s is proudly powered by %2$s"
+#~ msgstr ""
+#~ "%1$s פועל על  <!--%2$s--><a href=\"http://wph.co.il/\" title=\"וורדפרס "
+#~ "בעברית, מערכת אישית בקוד פתוח לניהול בלוגים עצמאיים\">וורדפרס בעברית</a>"
+#~ msgid ""
+#~ "Designed by <a href=\"http://binarybonsai.com/kubrick/\">Michael "
+#~ "Heilemann</a>"
+#~ msgstr ""
+#~ "עיצוב מאת <a href=\"http://binarybonsai.com/kubrick/\" title=\"הבלוג של "
+#~ "מיכאל הילמן, מפתח משחקים והמעצב של הבלוג הזה\">מיכאל הילמן</a> והתאמה "
+#~ "לעברית מאת <a href=\"http://ranh.co.il/\" title=\"הבלוג של רן יניב "
+#~ "הרטשטיין, כתב ומפתח\">רן יניב הרטשטיין</a>"
+#~ msgid "%1$s and %2$s."
+#~ msgstr "%1$s או %2$s."
+#~ msgid "Entries (RSS)"
+#~ msgstr "פיד RSS לפוסטים"
+#~ msgid "%d queries. %s seconds."
+#~ msgstr "%d queries. %s seconds."
+#~ msgid "Customize Header"
+#~ msgstr "התאמה אישית של הכותרת"
+#~ msgid "Header Image and Color"
+#~ msgstr "התאמה אישית לכותרת"
+#~ msgid "Close Color Picker"
+#~ msgstr "לסגור את בוחר הצבעים"
+#~ msgid "Options saved."
+#~ msgstr "האפשרויות נשמרו."
+#~ msgid "Save"
+#~ msgstr "לשמור"
+#~ msgid "Font Color:"
+#~ msgstr "צבע האות:"
+#~ msgid "Any CSS color (%s or %s or %s)"
+#~ msgstr "כל סוג של צבע CSS&rlm; (%s or %s or %s)"
+#~ msgid "Upper Color:"
+#~ msgstr "צבע עליון:"
+#~ msgid "HEX only (%s or %s)"
+#~ msgstr "HEX בלבד (%s או %s)"
+#~ msgid "Lower Color:"
+#~ msgstr "צבע תחתון:"
+#~ msgid "Toggle Text"
+#~ msgstr "להציג/להסתיר את הטקסט (פנימי)"
+#~ msgid "Use Defaults"
+#~ msgstr "לחזור לברירות המחדל"
+#~ msgid "Font Color"
+#~ msgstr "צבע הפונט"
+#~ msgid "Upper Color"
+#~ msgstr "צבע עליון"
+#~ msgid "Lower Color"
+#~ msgstr "צבע תחתון"
+#~ msgid "Revert"
+#~ msgstr "לחזור להגדרות הקודמות"
+#~ msgid "Advanced"
+#~ msgstr "אפשרויות נוספות"
+#~ msgid "Update Header &raquo;"
+#~ msgstr "לשמור את השינויים &raquo;"
+#~ msgid "Font Color (CSS):"
+#~ msgstr "צבע עליון (CSS):"
+#~ msgid "Upper Color (HEX):"
+#~ msgstr "צבע עליון (HEX):"
+#~ msgid "Lower Color (HEX):"
+#~ msgstr "צבע תחתון (HEX):"
+#~ msgid "Select Default Colors"
+#~ msgstr "לחזור לברירות המחדל (רקע כחול/אותיות לבנות)"
+#~ msgid "Toggle Text Display"
+#~ msgstr "להציג/להסתיר את הטקסט"
+#~ msgid "&raquo; Blog Archive"
+#~ msgstr "&raquo; ארכיון הבלוג"
+#~ msgid "%s RSS Feed"
+#~ msgstr "%s פיד RSS"
+#~ msgid "Sorry, but you are looking for something that isn&#8217;t here."
+#~ msgstr "לא מצאתי את מה שחיפשת."
+#~ msgid "Links:"
+#~ msgstr "קישורים:"
+#~ msgid "Read the rest of this page &raquo;"
+#~ msgstr "לקרוא את ההמשך &raquo;"
+#~ msgid "No posts found. Try a different search?"
+#~ msgstr "לא מצאתי פוסטים מתאימים. רוצה לנסות חיפוש אחר?"
+#~ msgid "Author"
+#~ msgstr "מאת"
+#~ msgid "You are currently browsing the archives for the %s category."
+#~ msgstr "זהו ארכיון הפוסטים בקטגוריה %s."
+#~ msgid ""
+#~ "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives "
+#~ "for the day %3$s."
+#~ msgstr "זהו ארכיון הפוסטים בבלוג <a href=\"%1$s/\">%2$s</a> מהתאריך %3$s."
+#~ msgid ""
+#~ "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives "
+#~ "for %3$s."
+#~ msgstr "זהו ארכיון הפוסטים בבלוג <a href=\"%1$s/\">%2$s</a> מהחודש %3$s."
+#~ msgid ""
+#~ "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives "
+#~ "for the year %3$s."
+#~ msgstr "זהו ארכיון הפוסטים בבלוג <a href=\"%1$s/\">%2$s</a> מהשנה %3$s."
+#~ msgid ""
+#~ "You have searched the <a href=\"%1$s/\">%2$s</a> blog archives for "
+#~ "<strong>&#8216;%3$s&#8217;</strong>. If you are unable to find anything "
+#~ "in these search results, you can try one of these links."
+#~ msgstr ""
+#~ "אלו תוצאות החיפוש <strong>\"%3$s\"</strong> בארכיון הבלוג <a href=\"%1$s/"
+#~ "\">%2$s</a>. אם לא מצאת את מה שחיפשת, אולי זה נמצא באחד הקישורים הבאים."
+#~ msgid ""
+#~ "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives."
+#~ msgstr "זהו ארכיון הפוסטים בבלוג <a href=\"%1$s/\">%2$s</a>."
+#~ msgid "Syndicate this site using RSS 2.0"
+#~ msgstr "פיד RSS 2.0 עם הפוסטים מהבלוג הזה"
+#~ msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+#~ msgstr "פיד <abbr title=\"Really Simple Syndication\">RSS</abbr> לפוסטים"
+#~ msgid "The latest comments to all posts in RSS"
+#~ msgstr "התגובות האחרונות לכל הסיפורים, ב-RSS"
+#~ msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+#~ msgstr "תגובות ב-<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+#~ msgid "This page validates as XHTML 1.0 Transitional"
+#~ msgstr "עמוד זה תואם לתקן XHTML 1.0 Transitional"
+#~ msgid ""
+#~ "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+#~ msgstr ""
+#~ "<abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr> תקני"
+#~ msgid "XHTML Friends Network"
+#~ msgstr "XHTML Friends Network"
+#~ msgid "XFN"
+#~ msgstr "XFN"
+#~ msgid ""
+#~ "Powered by WordPress, state-of-the-art semantic personal publishing "
+#~ "platform."
+#~ msgstr ""
+#~ "פועל על וורדפרס בעברית, מערכת אישית בקוד פתוח לניהול בלוגים עצמאיים. "
+

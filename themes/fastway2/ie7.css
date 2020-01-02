@@ -1,0 +1,79 @@
+/*--- ie7.css for the Fastway2 theme for Wordpress ---*/
+/*-------------------------------------------------*/
+/*--- by Anthony Baggett of antbag.com ---*/
+#archives select{ 
+	margin:0;
+}
+
+#wrapper{
+	margin: 0 auto;
+	border-top:110px solid #BB0000;
+}
+#top-menu{
+	top: 97px;
+	height:13px;
+	line-height:11px;
+}
+#container{
+}
+.sidebar{ 
+	width: 180px; 
+}
+
+.leftbar{ 
+	width: 180px; 
+}
+
+#search-form {
+	bottom:-3px;
+}
+#search-form input#s {
+	height:15px;
+}
+#search-form input#x {
+	height:17px;
+}
+.sidebar-form .form-submit {
+	padding:1px 0 0 0;
+}
+.sidebar ul li h2{
+	padding: 4px 0 2px 0;
+	margin: 0 0 5px 0;
+}
+#blog-body {
+	background: transparent url(images/linia-ie7.gif) repeat-y left top;
+	margin:0 0 10px;
+}
+#footer{
+	width: 934px;
+}
+
+.ls-banner img{
+	width:171px;
+}
+
+.flv-obj .flv-title{
+	filter: alpha(opacity=50);
+	top:-3ex;
+}
+
+.a-link {
+	padding: 0;
+	margin: 0;
+	line-height:2.5ex;
+	font-size:10px;
+}
+.a-link-first{
+	padding: 0;
+	margin: 0;
+	line-height: 2.5ex;
+	font-size:10px;
+}
+.a-link-last{
+	display: block;
+	padding-top: 0;
+	padding-bottom: 0.5;
+	margin: 0 0 2.4ex 0;
+	line-height: 2.5ex;
+	font-size:10px;
+}

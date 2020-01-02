@@ -1,0 +1,102 @@
+/*--- ie6.css for the Fastway2 theme for Wordpress ---*/
+/*-------------------------------------------------*/
+/*--- by Anthony Baggett of antbag.com ---*/
+
+body{
+	width: 100%;
+	background-attachment: scroll;
+}
+#wrapper{
+	margin: 0 auto;
+}
+#content, #sidebar { overflow: hidden; }
+.separator{
+	margin:0 0 -4px 0;
+	padding:0;
+}
+
+.sidebar{ 
+	width: 180px; 
+}
+
+.leftbar{ 
+	width: 180px; 
+}
+
+#footer{
+	border-top: 1px solid #ddd;
+	width: 934px;
+}
+
+#header #other-blogs{
+	margin: 5px 40px;
+}
+
+#header #kab-in-internet{
+	margin: 0 40px;
+}
+
+.search {
+	margin-top: -15px;
+}
+
+#archives select{ 
+	margin:0;
+}
+#top-menu{
+	position:absolute;
+	left:180px;
+}
+#search-form {
+	position:absolute;
+	bottom:10px;
+	right:5px;
+}
+#header .to_write{
+	top:5px;
+	right:10px;
+}
+.sidebar-form .form-submit {
+	padding:1px 0 0 0;
+}
+.sidebar ul li h2{
+	padding: 4px 0 2px 0;
+	margin: 0 0 5px 0;
+}
+#blog-body {
+	background: transparent url(images/linia-ie6.gif) repeat-y left top;
+	margin:0 0 10px;
+}
+.ls-banner img{
+	width:171px;
+}
+.flv-obj{
+	margin:5px 0;
+}
+.flv-obj img{
+	height:50px;
+	width:170px;
+	border:1px solid #990033;
+}
+
+.flv-obj .flv-title{
+	z-index:500;
+	margin:-20px 0 0 42px;
+	padding:0;
+	background-color:black;
+	color:white;
+	opacity: .5;
+	filter: alpha(opacity=50);
+	text-align:center;
+	width:100px;
+	position:static;
+}
+
+.entry a {
+  text-decoration: underline;
+  line-height: 2.5ex;
+}
+
+.ngg-gallery-thumbnail-box .ngg-gallery-thumbnail{
+	margin:10px 0 0 !important;
+}

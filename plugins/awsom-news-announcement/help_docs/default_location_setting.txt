@@ -1,0 +1,24 @@
+AWSOM News Default Location setting Help File
+
+By Default AWSOM News displays it's output on your index page above your posts area. AWSOM News was designed to
+minimize the need for the user to directly alter their theme files in order to get a News Announcement area to
+appear on their site. This setting turns on or off this behavior for advanced users who would prefer
+to place the News Announcement output in an alternate location, or in cases where there are issues
+with The News Announcement appearing more than once on the page(see Known Issues help doc). Turn this
+setting to "No" to have the News Announcement block only appear in locations where you have placed
+the theme code or post/page code. Leave this setting on "Yes" if you want the News Announcement
+block to appear in every location including the default one.
+
+The code for placing the News Announcement in a custom location in a theme file is listed
+in the Manage AWSOM News admin page. Simply paste this into your theme file where you
+want the News Announcement to display. An alternate method of display is to use the AWSOM News
+post/page code %%awsomnews0%% to have the News Announcement output appear in a post or page.
+
+Please Note that you may have as many locations active as you'd like using any combination
+of theme code, post/page code and Default location and the News Announcement will display
+in every location (even multiple pages/posts and theme code locations). Using the New Optional Location system (where a number from 1-8
+is placed where the 0 is in the code) allows you to place ONLY specific posts in a location as well as any
+posts set to "All Locations".
+
+
+If none of these settings or techniques resolves your issue please go to http://www.awsom.org or http://www.harknell.com for more support.
